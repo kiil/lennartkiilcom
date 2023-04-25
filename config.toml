@@ -12,8 +12,8 @@
 # If you use go mod to install your theme, you must use the URL of the theme.
 # If your theme is in the themes directory, you just need to specify its name.
 #
-#theme = "ananke"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = "ananke"
+#theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 baseurl = "https://www.lennartkiil.com/"
 title = "Lennart Kiil"
@@ -61,5 +61,5 @@ recent_posts_number = 3
 
 [module]
 [[module.mounts]]
-source = '/home/lk/GD/TEKST/notebooks/ext/lkc/'
+source = '/home/lk/GD/TEKST/nb/ext/lkc/'
 target = 'content'
