@@ -19,7 +19,7 @@ baseurl = "https://www.lennartkiil.com/"
 title = "Lennart Kiil"
 contentdir = "content"
 layoutdir = "layouts"
-publishdir = "public"
+publishdir = "docs"
 languageCode = "en-us"
 resourceDir = "../resources"
 
