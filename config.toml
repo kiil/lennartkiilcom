@@ -12,7 +12,7 @@
 # If you use go mod to install your theme, you must use the URL of the theme.
 # If your theme is in the themes directory, you just need to specify its name.
 #
-theme = "ananke"
+theme = "pico"
 #theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 baseurl = "https://www.lennartkiil.com/"
@@ -29,15 +29,6 @@ Paginate = 3                  # this is set low for demonstrating with dummy con
 googleAnalytics = ""
 enableRobotsTXT = true
 
-[languages]
-[languages.en]
-title = "Ananke"
-weight = 1
-contentDir = "content/en"
-[languages.fr]
-title = "Ananke Fr"
-weight = 2
-contentDir = "content/fr"
 
 [sitemap]
 changefreq = "monthly"
@@ -63,3 +54,12 @@ recent_posts_number = 3
 [[module.mounts]]
 source = '/home/lk/GD/TEKST/nb/ext/lkc/'
 target = 'content'
+
+[languages]
+[languages.en]
+title = "Ananke"
+weight = 1
+[languages.fr]
+title = "Ananke Fr"
+weight = 2
+contentDir = "content/fr"
