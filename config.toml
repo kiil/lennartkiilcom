@@ -54,12 +54,3 @@ recent_posts_number = 3
 [[module.mounts]]
 source = '/home/lk/GD/TEKST/nb/ext/lkc/'
 target = 'content'
-
-[languages]
-[languages.en]
-title = "Ananke"
-weight = 1
-[languages.fr]
-title = "Ananke Fr"
-weight = 2
-contentDir = "content/fr"
