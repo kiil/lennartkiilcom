@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.lennartkiil.com/blog/</loc>
+    <loc>https://www.lennartkiil.com/da/blog/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -11,22 +11,17 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="da"
-                href="https://www.lennartkiil.com/da/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://www.lennartkiil.com/blog/"
                 />
-  </url><url>
-    <loc>https://www.lennartkiil.com/blog/krabby_patty/</loc>
-    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://www.lennartkiil.com/da/blog/krabby_patty/"
+                href="https://www.lennartkiil.com/da/blog/"
                 />
+  </url><url>
+    <loc>https://www.lennartkiil.com/da/blog/krabby_patty/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -37,14 +32,14 @@
                 hreflang="en"
                 href="https://www.lennartkiil.com/blog/krabby_patty/"
                 />
-  </url><url>
-    <loc>https://www.lennartkiil.com/</loc>
-    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://www.lennartkiil.com/da/"
+                href="https://www.lennartkiil.com/da/blog/krabby_patty/"
                 />
+  </url><url>
+    <loc>https://www.lennartkiil.com/da/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -55,14 +50,14 @@
                 hreflang="en"
                 href="https://www.lennartkiil.com/"
                 />
-  </url><url>
-    <loc>https://www.lennartkiil.com/tags/recipe/</loc>
-    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://www.lennartkiil.com/da/tags/recipe/"
+                href="https://www.lennartkiil.com/da/"
                 />
+  </url><url>
+    <loc>https://www.lennartkiil.com/da/tags/recipe/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -73,14 +68,14 @@
                 hreflang="en"
                 href="https://www.lennartkiil.com/tags/recipe/"
                 />
-  </url><url>
-    <loc>https://www.lennartkiil.com/tags/</loc>
-    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://www.lennartkiil.com/da/tags/"
+                href="https://www.lennartkiil.com/da/tags/recipe/"
                 />
+  </url><url>
+    <loc>https://www.lennartkiil.com/da/tags/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -91,13 +86,13 @@
                 hreflang="en"
                 href="https://www.lennartkiil.com/tags/"
                 />
-  </url><url>
-    <loc>https://www.lennartkiil.com/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://www.lennartkiil.com/da/about/"
+                href="https://www.lennartkiil.com/da/tags/"
                 />
+  </url><url>
+    <loc>https://www.lennartkiil.com/da/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -108,13 +103,13 @@
                 hreflang="en"
                 href="https://www.lennartkiil.com/about/"
                 />
-  </url><url>
-    <loc>https://www.lennartkiil.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://www.lennartkiil.com/da/categories/"
+                href="https://www.lennartkiil.com/da/about/"
                 />
+  </url><url>
+    <loc>https://www.lennartkiil.com/da/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -124,6 +119,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.lennartkiil.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.lennartkiil.com/da/categories/"
                 />
   </url>
 </urlset>
