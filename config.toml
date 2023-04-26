@@ -12,6 +12,7 @@ theme = 'pico'
 # and the square icon (not the favicon)
 title = 'Lennart Kiil'
 
+publishDir = 'docs'
 
 [params]
 customCSS = [
