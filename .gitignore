@@ -2,3 +2,5 @@
 resources/
 node_modules
 themes
+package-lock.json
+package.json
