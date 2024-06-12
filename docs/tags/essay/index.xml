@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>essay on Lennart Kiil</title>
+    <title>Essay on Lennart Kiil</title>
     <link>https://www.lennartkiil.com/tags/essay/</link>
-    <description>Recent content in essay on Lennart Kiil</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Essay on Lennart Kiil</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lennartkiil.com/tags/essay/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.lennartkiil.com/tags/essay/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Metoo and the Media</title>
       <link>https://www.lennartkiil.com/blog/metoo-and-media/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lennartkiil.com/blog/metoo-and-media/</guid>
-      <description>All but died out, no interest from the Danish populace. But then reignited by media Sofie Linde.
-Moved power to the media
-Morten Østergaard</description>
+      <description>All but died out, no interest from the Danish populace. But then reignited by media Sofie Linde.&#xA;Moved power to the media&#xA;Morten Østergaard</description>
     </item>
-    
   </channel>
 </rss>

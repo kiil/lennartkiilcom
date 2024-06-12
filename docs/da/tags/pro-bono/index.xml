@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lennart Kiil</title>
-    <link>https://www.lennartkiil.com/da/</link>
-    <description>Recent content on Lennart Kiil</description>
+    <title>Pro Bono on Lennart Kiil</title>
+    <link>https://www.lennartkiil.com/da/tags/pro-bono/</link>
+    <description>Recent content in Pro Bono on Lennart Kiil</description>
     <generator>Hugo</generator>
     <language>da</language>
     <lastBuildDate>Wed, 13 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.lennartkiil.com/da/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.lennartkiil.com/da/tags/pro-bono/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jeg har hjulpet Lars - og han har hjulpet os andre</title>
       <link>https://www.lennartkiil.com/da/blog/krabby_patty/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://www.lennartkiil.com/da/blog/krabby_patty/</guid>
       <description>Ingredients: Når man hjælper en ordblind med at skrive, er det ikke nok at kunne korrekturlæse. Man skal have en forståelse for budskabet som den ordblinde ønsker at viderebringe.&#xA;For the sauce:&#xA;Worcestershire sauce Ketchup Mustard Steps : In a bowl, beat 1 egg then add the crabmeat, breadcrumbs, lemon juice, salt and pepper. Mix until you get a homogeneous consistency.&#xA;Then form crab pâté steaks and brown them in a pan with a drizzle of frying oil for 4 to 5 minutes on each side.</description>
-    </item>
-    <item>
-      <title>Om mig</title>
-      <link>https://www.lennartkiil.com/da/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.lennartkiil.com/da/about/</guid>
-      <description>Jeg er ret dårlig til at sætte navn på et ansigt og skal helst møde folk 3-4 gange før det sidder fast.</description>
     </item>
   </channel>
 </rss>
