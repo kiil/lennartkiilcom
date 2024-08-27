@@ -1,0 +1,59 @@
+[tagged_in]
+other = "Tagged i"
+
+[other_tags]
+other = "Andre tags"
+
+[read_more]
+other = "Læs mere"
+
+[name]
+other = "Navn"
+
+[your_message]
+other = "Din besked"
+
+[cancel]
+other = "Fortryd"
+
+[submit]
+other = "Indsend"
+
+[previous]
+other = "Forrige"
+
+[next]
+other = "Næste"
+
+[back]
+other = "Tilbage"
+
+[contact]
+other = "Kontakt"
+
+[contact_email]
+other = "Kontakt via e-mail"
+
+[latest_post]
+other = "Seneste artikel"
+
+[reading_time]
+other = "Læsetid ca. {{ .ReadingTime }} min"
+
+[home]
+other = "Hjem"
+
+[about]
+other = "Om"
+
+[blog]
+other = "Blog"
+
+[present]
+other = "Aktuel"
+
+[required_fields]
+other = "Påkrævede felter"
+
+[cv]
+other = "CV"

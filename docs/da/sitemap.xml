@@ -69,6 +69,18 @@
                 href="https://www.lennartkiil.com/da/categories/"
                 />
   </url><url>
+    <loc>https://www.lennartkiil.com/da/cv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.lennartkiil.com/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.lennartkiil.com/da/cv/"
+                />
+  </url><url>
     <loc>https://www.lennartkiil.com/da/about/</loc>
     <xhtml:link
                 rel="alternate"
