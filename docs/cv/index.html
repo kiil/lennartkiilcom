@@ -141,79 +141,39 @@
 <article class="">
 	<h1 class="font-bold text-3xl text-gray-700">CV</h1>
 	
+<style type="text/css">
 
 
+dt {
+	font-weight: bold;
+}
 
+dd {
+	margin: 0;
+	
+	+ dt {
+		margin-top: 1em;
+	}
+}
 
-    <style type="text/css">
-  /*
-   * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
-   *
-   * CSS for making a resume with pandoc. Inspired by moderncv.
-   *
-   * This CSS document is delivered to you under the CC BY-SA 3.0 License.
-   * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
-   */
-
-  /* Whole document */
-  /* body { */
-  /*     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
-  /*     max-width: 800px; */
-  /*     margin: auto; */
-  /*     background: #FFFFFF; */
-  /*     padding: 10px 10px 10px 10px; */
-  /* } */
-  /**/
-  /* /* Title of the resume */ */
-  /* h1 { */
-  /*     font-size: 32px; */
-  /*     color: #757575; */
-  /*     text-align:center; */
-  /*     margin-bottom:15px; */
-  /* } */
-  /* h1:hover { */
-  /*     background-color: #757575; */
-  /*     color: #FFFFFF; */
-  /*     text-shadow: 1px 1px 1px #333; */
-  /* } */
-
-  /* Titles of categories */
-  h2 {
-      /* This is called "sectioncolor" in the ConTeXt stylesheet. */
-      color: #397249;
-  }
-  /* There is a bar just before each category */
-  h2:before {
-      content: "";
-      display: inline-block;
-      margin-right:1%;
-      width: 26%;
-      height: 10px;
-      /* This is called "rulecolor" in the ConTeXt stylesheet. */
-      background-color: #9CB770;
-  }
-  /* h2:hover { */
-  /*     background-color: #397249; */
-  /*     color: #FFFFFF; */
-  /*     text-shadow: 1px 1px 1px #333; */
-  /* } */
-
-  /* Definitions */
-  dt {
-      float: left;
-      clear: left;
-      width: 27%;
-      font-weight: bold;
-  }
-  dd {
-      margin-left: 27%;
-      margin-bottom:7px;
-  }
-  p {
-      margin-top:0;
-      margin-bottom:7px;
-  }
-
+@media only screen and (min-width: 600px) {
+h2 { text-align: center;
+     clear: both;
+     padding-top: 2em;}
+	dt {
+		clear: both;
+		float: left;
+		margin: 1em 0 0 0;
+		padding-right: 1em;
+		text-align: right;
+		width: 35%;
+	}
+	dd {
+		float: right;
+		margin: 1em 0 0 0;
+		width: 65%;
+	}
+}
   /* Blockquotes */
   blockquote {
       text-align: center
@@ -231,21 +191,13 @@
       text-shadow: 1px 1px 1px #333;
   }
 
-  /* Horizontal separators */
-  hr {
-      color: #A6A6A6;
-  }
 
   table {
       width: 100%;
       display: table;
   }
   </style>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
-</head>
-<body>
+
 <h1 id="lennart-kiil---mellem-sprog-og-teknologi">Lennart Kiil - mellem
 sprog og teknologi</h1>
 <table>
@@ -383,8 +335,6 @@ Piccolo, <em>Nykredit</em> | Lager, <em>Aldi</em> | Bud, <em>Post
 Danmark</em> | Forefaldende, <em>Bowl’n’Fun</em>
 </dd>
 </dl>
-</body>
-</html>
 
 </article>
 
